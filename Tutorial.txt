@@ -1,0 +1,13 @@
+git add UC2/aula12_06112024.ipynb
+
+VScode
+terminal
+nem terminal
++ 
+gitbash
+$ git clone https://github.com/LarissaKViana/Nome do repositório
+$ cd CursoBigData
+$ ls
+$ git add nome_do_arquivo.ipynb
+$ git commit -m 'teste em aula'  (1 file changed
+$ git push origin main          (complete w
